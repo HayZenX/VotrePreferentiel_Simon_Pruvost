@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/VotePreferentiel.Worker/VotePreferentiel.Worker.csproj" />
+    <Project Path="src/VotePreferentiel/VotePreferentiel.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/VotePreferentiel.Tests/VotePreferentiel.Tests.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,15 @@
+## Build output
+[Bb]in/
+[Oo]bj/
+
+## Visual Studio and VS Code
+.vs/
+.vscode/
+
+## User-specific files
+*.user
+*.suo
+
+## Test results
+TestResults/
+coverage/
